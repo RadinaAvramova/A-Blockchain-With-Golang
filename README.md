@@ -1,2 +1,2 @@
 # A-Blockchain-With-Golang
-A-Blockchain-With-Golang-master
+A-Blockchain-With-Golang
